@@ -1,0 +1,11 @@
+MyShell - User Manual (Part 1)
+
+Built-in commands:
+  cd [DIRECTORY]     Change directory. If no DIRECTORY, print current directory.
+  dir DIRECTORY      List contents of DIRECTORY.
+  environ            List environment variables.
+  set VAR VALUE      Set environment variable VAR to VALUE.
+  echo [COMMENT]     Print COMMENT (extra spaces reduced).
+  help               Show this manual.
+  pause              Wait until Enter is pressed.
+  quit               Exit the shell.

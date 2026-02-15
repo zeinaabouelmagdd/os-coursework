@@ -1,0 +1,7 @@
+pwd
+ls
+echo hello from batch
+cd ..
+pwd
+dir myshell
+quit
